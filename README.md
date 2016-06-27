@@ -1,4 +1,4 @@
-### American Chemical Society(ACS) - Selenium Automation
+### Classroom Test - Selenium Automation
 ---
 #### System Requirement:
 
